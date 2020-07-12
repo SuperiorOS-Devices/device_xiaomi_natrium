@@ -35,7 +35,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    SnapdragonCamera
 
 # Consumer IR
 PRODUCT_PACKAGES += \
